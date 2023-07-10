@@ -1,4 +1,4 @@
-console.log('Keep going')
+console.log('Keep going 🍊')
 
 /**
  * Is there a ui? No 
